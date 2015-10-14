@@ -1,0 +1,92 @@
+2013-10-17 09:37:41: Symbolic link between 64 and 32 bit registry views either created or not required.
+2013-10-17 09:37:41: Remote Installation Service build (7,0,0,25)
+2013-10-17 09:37:41: Command line: -u  "http://UKSRPCSUSMP10.CSU.LOCAL:80/altiris/ns/NSCap/bin/win32/x86/NS client Package/AeXNSC.exe" -s UKSRPCSUSMP10.CSU.LOCAL:80 -w http://UKSRPCSUSMP10.CSU.LOCAL:80/altiris
+2013-10-17 09:37:41: Symbolic link between 64 and 32 bit registry views either created or not required.
+2013-10-17 09:37:41: Remote Installation Service build (7,0,0,25)
+2013-10-17 09:37:41: Started as service: Symantec Management Agent Installation Service
+2013-10-17 09:37:41: Install arguments saved.
+	Source URL: http://UKSRPCSUSMP10.CSU.LOCAL:80/altiris/ns/NSCap/bin/win32/x86/NS client Package/AeXNSC.exe
+	Legacy Agent Package: 
+	Server Name: UKSRPCSUSMP10.CSU.LOCAL:80
+	NS Web: http://UKSRPCSUSMP10.CSU.LOCAL:80/altiris
+	Install Path: 
+	Download Chunk Size: 1024
+	Download Pause Interval: 25
+	Show Tray Icon: YES
+	Show Start Menu: YES
+	Use Proxy Preconfig: NO
+	Register Diagnostics: NO
+	Log Enabled: YES
+	Enable "Add/Remove": NO
+	Uninstall: NO
+	Extra Parameters: 
+2013-10-17 09:37:41: Sending 'Remote Install Started: Success' message to 'http://UKSRPCSUSMP10.CSU.LOCAL:80/altiris'.
+2013-10-17 09:37:46: Sending 'Checking Prerequisites: Success' message to 'http://UKSRPCSUSMP10.CSU.LOCAL:80/altiris'.
+2013-10-17 09:37:48: Requirements check: 
+Required: Windows XP or above
+Detected: Windows 7 Enterprise - 6.1 Service Pack 1 
+Required: Windows XP or above
+Detected: Windows 7 Enterprise - 6.1 Service Pack 1 
+
+Requirements met OK.
+2013-10-17 09:37:48: Sending 'Checked Prerequisites: Success' message to 'http://UKSRPCSUSMP10.CSU.LOCAL:80/altiris'.
+2013-10-17 09:37:49: Downloading agent installer from URL: http://UKSRPCSUSMP10.CSU.LOCAL:80/altiris/ns/NSCap/bin/win32/x86/NS client Package/AeXNSC.exe
+2013-10-17 09:37:49: Sending 'Starting Download: Success' message to 'http://UKSRPCSUSMP10.CSU.LOCAL:80/altiris'.
+2013-10-17 09:38:53: Download status (bytes): cached: 0, transfered: 6221824, total: 23920776.
+2013-10-17 09:39:56: Download status (bytes): cached: 0, transfered: 12443648, total: 23920776.
+2013-10-17 09:40:58: Download status (bytes): cached: 0, transfered: 18665472, total: 23920776.
+2013-10-17 09:41:52: Download status (bytes): cached: 0, transfered: 23920776, total: 23920776.
+2013-10-17 09:41:52: Sending 'Finished Download: Success' message to 'http://UKSRPCSUSMP10.CSU.LOCAL:80/altiris'.
+2013-10-17 09:41:53: Sending 'Starting Install: Success' message to 'http://UKSRPCSUSMP10.CSU.LOCAL:80/altiris'.
+2013-10-17 09:41:55: Running: "C:\AeXNSC.exe" -s -a ns="UKSRPCSUSMP10.CSU.LOCAL:80" nsweb="http://UKSRPCSUSMP10.CSU.LOCAL:80/altiris"   /s
+2013-10-17 09:42:10: Altiris Agent configured to use server 'UKSRPCSUSMP10.CSU.LOCAL:80' web 'http://UKSRPCSUSMP10.CSU.LOCAL:80/altiris'
+2013-10-17 09:42:10: Sending 'Finished Install: Success' message to 'http://UKSRPCSUSMP10.CSU.LOCAL:80/altiris'.
+2013-10-17 09:42:11: Sending 'Remote Install Finished: Success' message to 'http://UKSRPCSUSMP10.CSU.LOCAL:80/altiris'.
+2013-10-17 09:42:13: Running self uninstaller command: C:\\AltirisAgentInstSvc_del.exe -slfsrvcdelete "Symantec Management Agent Installation Service"
+2013-10-17 09:42:13: Service work complete.
+2015-04-16 15:02:32: Symbolic link between 64 and 32 bit registry views either created or not required.
+2015-04-16 15:02:32: Remote Installation Service build (7,0,0,25)
+2015-04-16 15:02:32: Command line: -u  "http://UKSRPCSUSMP10.CSU.LOCAL:80/altiris/ns/NSCap/bin/win32/x86/NS client Package/AeXNSC.exe" -s UKSRPCSUSMP10.CSU.LOCAL:80 -w http://UKSRPCSUSMP10.CSU.LOCAL:80/altiris
+2015-04-16 15:02:32: Symbolic link between 64 and 32 bit registry views either created or not required.
+2015-04-16 15:02:32: Remote Installation Service build (7,0,0,25)
+2015-04-16 15:02:32: Started as service: Symantec Management Agent Installation Service
+2015-04-16 15:02:32: Install arguments saved.
+	Source URL: http://UKSRPCSUSMP10.CSU.LOCAL:80/altiris/ns/NSCap/bin/win32/x86/NS client Package/AeXNSC.exe
+	Legacy Agent Package: 
+	Server Name: UKSRPCSUSMP10.CSU.LOCAL:80
+	NS Web: http://UKSRPCSUSMP10.CSU.LOCAL:80/altiris
+	Install Path: 
+	Download Chunk Size: 1024
+	Download Pause Interval: 25
+	Show Tray Icon: YES
+	Show Start Menu: YES
+	Use Proxy Preconfig: NO
+	Register Diagnostics: NO
+	Log Enabled: YES
+	Enable "Add/Remove": NO
+	Uninstall: NO
+	Extra Parameters: 
+2015-04-16 15:02:32: Sending 'Remote Install Started: Success' message to 'http://UKSRPCSUSMP10.CSU.LOCAL:80/altiris'.
+2015-04-16 15:02:34: Sending 'Checking Prerequisites: Success' message to 'http://UKSRPCSUSMP10.CSU.LOCAL:80/altiris'.
+2015-04-16 15:02:36: Requirements check: 
+Required: Windows XP or above
+Detected: Windows 7 Enterprise - 6.1 Service Pack 1 
+Required: Windows XP or above
+Detected: Windows 7 Enterprise - 6.1 Service Pack 1 
+
+Requirements met OK.
+2015-04-16 15:02:36: Sending 'Checked Prerequisites: Success' message to 'http://UKSRPCSUSMP10.CSU.LOCAL:80/altiris'.
+2015-04-16 15:02:37: Downloading agent installer from URL: http://UKSRPCSUSMP10.CSU.LOCAL:80/altiris/ns/NSCap/bin/win32/x86/NS client Package/AeXNSC.exe
+2015-04-16 15:02:37: Sending 'Starting Download: Success' message to 'http://UKSRPCSUSMP10.CSU.LOCAL:80/altiris'.
+2015-04-16 15:03:41: Download status (bytes): cached: 0, transfered: 6221824, total: 23920776.
+2015-04-16 15:04:43: Download status (bytes): cached: 0, transfered: 12443648, total: 23920776.
+2015-04-16 15:05:45: Download status (bytes): cached: 0, transfered: 18665472, total: 23920776.
+2015-04-16 15:06:38: Download status (bytes): cached: 0, transfered: 23920776, total: 23920776.
+2015-04-16 15:06:38: Sending 'Finished Download: Success' message to 'http://UKSRPCSUSMP10.CSU.LOCAL:80/altiris'.
+2015-04-16 15:06:39: Sending 'Starting Install: Success' message to 'http://UKSRPCSUSMP10.CSU.LOCAL:80/altiris'.
+2015-04-16 15:06:41: Running: "C:\AeXNSC.exe" -s -a ns="UKSRPCSUSMP10.CSU.LOCAL:80" nsweb="http://UKSRPCSUSMP10.CSU.LOCAL:80/altiris"   /s
+2015-04-16 15:06:44: Altiris Agent configured to use server 'UKSRPCSUSMP10.CSU.LOCAL:80' web 'http://UKSRPCSUSMP10.CSU.LOCAL:80/altiris'
+2015-04-16 15:06:44: Sending 'Finished Install: Success' message to 'http://UKSRPCSUSMP10.CSU.LOCAL:80/altiris'.
+2015-04-16 15:06:45: Sending 'Remote Install Finished: Success' message to 'http://UKSRPCSUSMP10.CSU.LOCAL:80/altiris'.
+2015-04-16 15:06:47: Running self uninstaller command: C:\\AltirisAgentInstSvc_del.exe -slfsrvcdelete "Symantec Management Agent Installation Service"
+2015-04-16 15:06:47: Service work complete.
