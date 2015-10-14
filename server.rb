@@ -43,6 +43,11 @@ get '/download_video' do
   erb :download_video
 end
 
+get '/download_malware' do
+  @file_list = Dir.glob("public/malware/*.*").map { |f| f.split('/').last }
+  erb :download_malware
+end
+
 get '/download/:filename' do |filename|
   mime_type = get_mime_type_for(filename)
 
