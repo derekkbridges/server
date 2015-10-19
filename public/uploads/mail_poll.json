@@ -1,0 +1,46 @@
+
+            /*-secure-
+            {
+                "success": "true", 
+                "folder": {
+                    "id": "INBOX",
+                    "attributes": {
+                        "fullName": "INBOX",
+                        "totalEmails": "9664",
+                        
+                                "unreadEmails": "0",
+                                "subscribed": "true"
+                            
+                            ,
+                            "quotas": [
+                                
+                                    {
+                                        
+
+    "id": "",
+    "attributes": {
+        "root": ""
+        
+            ,
+            "resources": [
+                
+                    {
+                        
+                        "limit": "31457280",
+                        "name": "STORAGE",
+                        "usage": "1071652"
+                    }
+                    
+            ]
+        
+    }
+
+                                    }
+                                    
+                            ]
+                        
+                        }
+                    }
+                }
+                */
+        
