@@ -1,1 +1,0 @@
-DEL /S %SystemRoot%\System32\sysprep\unattend.xml
