@@ -1,0 +1,11 @@
+#EXTM3U
+#EXT-X-TARGETDURATION:10
+#EXTINF:10,
+film_strip_1400k_audio_and_logo_63245926-1200k.split.0.ts
+#EXTINF:10,
+film_strip_1400k_audio_and_logo_63245926-1200k.split.1.ts
+#EXTINF:11,
+film_strip_1400k_audio_and_logo_63245926-1200k.split.2.ts
+#EXTINF:6,
+film_strip_1400k_audio_and_logo_63245926-1200k.split.3.ts
+#EXT-X-ENDLIST
